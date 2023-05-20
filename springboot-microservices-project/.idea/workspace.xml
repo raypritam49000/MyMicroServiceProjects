@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ead9b5af-1363-4122-ba96-47b3e6812c0c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/api-gateway-service/api-gateway-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway-service/api-gateway-service/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway-service/api-gateway-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway-service/api-gateway-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway-service/api-gateway-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway-service/api-gateway-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway-service/api-gateway-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway-service/api-gateway-service/src/main/java/com/programming/techie/apigatewayservice/ApiGatewayServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway-service/api-gateway-service/src/main/java/com/programming/techie/apigatewayservice/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway-service/api-gateway-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway-service/api-gateway-service/src/test/java/com/programming/techie/apigatewayservice/ApiGatewayServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration-server/configuration-server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration-server/configuration-server/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration-server/configuration-server/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration-server/configuration-server/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration-server/configuration-server/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration-server/configuration-server/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration-server/configuration-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration-server/configuration-server/src/main/java/com/programming/techie/configurationserver/ConfigurationServerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration-server/configuration-server/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration-server/configuration-server/src/test/java/com/programming/techie/configurationserver/ConfigurationServerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-server/discovery-server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-server/discovery-server/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-server/discovery-server/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-server/discovery-server/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-server/discovery-server/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-server/discovery-server/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-server/discovery-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-server/discovery-server/src/main/java/com/programming/techie/discoveryserver/DiscoveryServerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-server/discovery-server/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-server/discovery-server/src/test/java/com/programming/techie/discoveryserver/DiscoveryServerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/inventory-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/inventory-service/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/inventory-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/inventory-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/inventory-service/inventory-service-credentials.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/inventory-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/inventory-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/inventory-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/inventory-service/src/main/java/com/programming/techie/InventoryServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/inventory-service/src/main/java/com/programming/techie/controller/InventoryRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/inventory-service/src/main/java/com/programming/techie/model/Inventory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/inventory-service/src/main/java/com/programming/techie/repository/InventoryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/inventory-service/src/main/resources/bootstrap.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/inventory-service/src/main/resources/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/inventory-service/src/main/resources/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/inventory-service/src/test/java/com/programming/techie/InventoryServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification-service/notification-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification-service/notification-service/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification-service/notification-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification-service/notification-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification-service/notification-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification-service/notification-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification-service/notification-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification-service/notification-service/src/main/java/com/programming/techie/notificationservice/EmailSender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification-service/notification-service/src/main/java/com/programming/techie/notificationservice/NotificationServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification-service/notification-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification-service/notification-service/src/main/resources/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification-service/notification-service/src/test/java/com/programming/techie/notificationservice/NotificationServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/order-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/order-service/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/order-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/order-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/order-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/order-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/order-service/order-service.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/order-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/order-service/src/main/java/com/programming/techie/orderservice/OrderServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/order-service/src/main/java/com/programming/techie/orderservice/client/InventoryClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/order-service/src/main/java/com/programming/techie/orderservice/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/order-service/src/main/java/com/programming/techie/orderservice/controller/OrderController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/order-service/src/main/java/com/programming/techie/orderservice/dto/OrderDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/order-service/src/main/java/com/programming/techie/orderservice/model/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/order-service/src/main/java/com/programming/techie/orderservice/model/OrderLineItems.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/order-service/src/main/java/com/programming/techie/orderservice/repository/OrderRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/order-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/order-service/src/main/resources/bootstrap.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/order-service/src/main/resources/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/order-service/src/test/java/com/programming/techie/orderservice/OrderServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/product-service.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/src/main/java/com/programming/techie/productservice/ProductServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/src/main/java/com/programming/techie/productservice/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/src/main/java/com/programming/techie/productservice/controller/ProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/src/main/java/com/programming/techie/productservice/controller/TestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/src/main/java/com/programming/techie/productservice/model/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/src/main/java/com/programming/techie/productservice/repository/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/src/main/resources/bootstrap.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/src/main/resources/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/product-service/src/test/java/com/programming/techie/productservice/ProductServiceApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PluoOkYlRu7CNhOpfV9eb4s5at" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/pritamray/MyAllPrograms/MyMicroServices/springboot-microservices-project"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ead9b5af-1363-4122-ba96-47b3e6812c0c" name="Changes" comment="" />
+      <created>1684044163406</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684044163406</updated>
+    </task>
+    <servers />
+  </component>
+</project>

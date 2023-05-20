@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/SpringBootMicroservices/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-keycloack-project/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-microservices-project/order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-microservices-project/product-service/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-microservices-project/discovery-server/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-microservices-project/inventory-service/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-microservices-project/api-gateway-service/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-microservices-project/configuration-server/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-microservices-project/notification-service/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-security-with-keycloak/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_20" default="true" project-jdk-name="20" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

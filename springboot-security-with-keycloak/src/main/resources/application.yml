@@ -1,0 +1,17 @@
+server:
+  port: 8081
+
+keycloak:
+  realm: spring-boot-microservice-realm
+  auth-server-url: http://localhost:8080
+  resource: my_client
+  ssl-required: external
+  use-resource-role-mappings: true
+
+app:
+  keycloak:
+    login:
+      url: http://localhost:8080/realms/spring-boot-microservice-realm/protocol/openid-connect/token
+    client-secret: 8S2x76Gh7hx2wzp4Cl0HqEQWPXCCCESt
+    client-id: my_client
+    grant-type: password

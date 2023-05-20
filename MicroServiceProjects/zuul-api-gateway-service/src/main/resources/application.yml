@@ -1,0 +1,52 @@
+server:
+  port: 9998
+
+spring:
+  application:
+    name: zuul-api-gateway-service
+
+eureka:
+  instance:
+    hostname: localhost
+    prefer-ip-address: true
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka
+
+zuul:
+  routes:
+    student-service:
+      path: /student-service/**
+      service-id: student-service
+      strip-prefix: true
+    course-service:
+      path: /course-service/**
+      service-id: course-service
+      strip-prefix: true
+
+# http://localhost:9998/student-service/v1/students
+# http://localhost:9998/course-service/v1/courses
+
+logging:
+  level:
+    org:
+      springframework:
+        cloud:
+          netflix: trace
+
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 3600000
+
+ribbon:
+  ReadTimeout: 3600000
+
+
+
+
